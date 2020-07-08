@@ -7,11 +7,9 @@ sections:
 - type: document
   path: layouts/partials/head/head.html
   label: head
-  match: "**/*"
 - type: document
   path: config.yaml
   label: config
-  match: "**/*"
 - type: heading
   label: Content
 - type: document
