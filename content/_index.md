@@ -3,6 +3,6 @@ hero:
   heading: 'M.K Blog '
   maxWidthPX: "652"
 seo:
-  image: "/images/hero-2.jpg"
+  image: "/static/images/img-20180129-wa0063.jpg"
 
 ---
