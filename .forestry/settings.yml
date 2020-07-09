@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/about.md
+  label: about
+  create: all
+  match: "**/*"
+- type: directory
   path: layouts/partials/icons/ui/logo.html
   label: logo
   create: all
