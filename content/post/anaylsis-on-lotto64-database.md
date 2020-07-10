@@ -7,5 +7,3 @@ title = "Anaylsis on Lotto64 database"
 
 +++
 welcome to my first analysis on the lottory lotto69 database
-
-![](/static/images/img-20180129-wa0063.jpg)
