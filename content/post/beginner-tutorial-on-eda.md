@@ -7,4 +7,6 @@ hero = "/static/images/hero-2.jpg"
 title = "Beginner tutorial on EDA"
 
 +++
-so this is it, A beginner introduction to exploratory data analyst about some important data 
+so this is it, A beginner introduction to exploratory data analyst about some important data
+
+![](/static/images/hero-2.jpg)
