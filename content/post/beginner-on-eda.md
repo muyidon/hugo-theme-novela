@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-07-11T04:48:00Z
+date = 2020-07-11T04:53:00Z
 excerpt = ""
 hero = "/static/images/hero-2.jpg"
 title = "Beginner tutorial on EDA"
