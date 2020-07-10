@@ -7,3 +7,5 @@ title = "Anaylsis on Lotto64 database"
 
 +++
 welcome to my first analysis on the lottory lotto69 database
+
+![](/static/images/hero-2.jpg)
