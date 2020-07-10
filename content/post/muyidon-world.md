@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-11T05:06:00Z
-draft = true
 excerpt = ""
 hero = "/static/images/hero-2.jpg"
 title = "muyidon world"
