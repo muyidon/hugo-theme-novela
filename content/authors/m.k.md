@@ -1,5 +1,5 @@
 +++
-avatar = "/images/muyi-avatar.jpg"
+avatar = "/images/thiago-costa.jpg"
 bio = "I love data analyst"
 featured = false
 title = "M.K"
