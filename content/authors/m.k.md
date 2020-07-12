@@ -1,8 +1,7 @@
 +++
 avatar = "/images/muyi-avatar.jpg"
 bio = "I love data analyst"
-draft = true
-featured = true
+featured = false
 title = "M.K"
 [[social]]
 title = "Instagram"
